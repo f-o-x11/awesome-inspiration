@@ -177,6 +177,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 - [ArtboardLab](https://artboardlab.com) - Free browser-based design tools: open and convert Adobe Illustrator (.ai) files to SVG/PNG/PDF, plus image compression (PNG/JPG/WebP/AVIF). Everything runs in the browser — no upload, no account needed.
 - [PicCollages](https://piccollages.com/) - Free browser-based photo collage maker with grid layouts, spacing, borders, text and stickers; local editing and direct export need no account, while optional account work-saving uploads photos.
+- [deed.page](https://deed.page) - Free hosting for a single HTML file or a static folder: upload with one `curl -T` command and get a permanent public link, no account needed. Handy for sharing prototypes and design mockups.
 
 ## Interface
 
